@@ -43,7 +43,9 @@ Same steps in the Installation & Set Up part of the README [https://github.com/c
 
 2. To install nvm in Windows, follow this guide as it worked for me [https://tecadmin.net/install-nodejs-with-nvm-on-windows/](https://tecadmin.net/install-nodejs-with-nvm-on-windows/) 
 
-3. Problems with lmdb library being corrupted -> delete node-gyp in C:\Users\{Username}\AppData\Local and redo step 1 of Installation and Set Up 
+3. Problems with lmdb library being corrupted -> delete node-gyp in C:\Users\{Username}\AppData\Local and redo step 1 of Installation and Set Up or npm rebuild lmdb in step 3 of Installation and Set Up
+   
+4. Problems with sharp library -> npm install --platform=win32 --arch=x64 sharp 
 
 ## 🚀 Building and Running for Production
 
