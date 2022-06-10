@@ -2,9 +2,10 @@
   Portfolio Website
 </h1>
 
-### Special Thanks
+## 🤝 Special Thanks
 
 Thanks to Brittany Chiang for the Design and Build [brittanychiang.com](https://brittanychiang.com).
+
 Thanks to Chandrika Deb for making her version of Brittany Chiang's website available to be forked [https://chandrikadeb7.github.io/](https://chandrikadeb7.github.io/).
 
 ## 🛠 Installation & Set Up
@@ -36,6 +37,14 @@ Same steps in the Installation & Set Up part of the README [https://github.com/c
    npm start
    ```
 
+## 🛠 Troubleshooting
+
+1. Node version should be atleat v14.15.0 due to Gatsby dependencies
+
+2. To install nvm in Windows, follow this guide as it worked for me [https://tecadmin.net/install-nodejs-with-nvm-on-windows/](https://tecadmin.net/install-nodejs-with-nvm-on-windows/) 
+
+3. Problems with lmdb library being corrupted -> delete node-gyp in C:\Users\{Username}\AppData\Local and redo step 1 of Installation and Set Up 
+
 ## 🚀 Building and Running for Production
 
 1. Generate a full static production build
@@ -49,14 +58,6 @@ Same steps in the Installation & Set Up part of the README [https://github.com/c
    ```sh
    npm run serve
    ```
-
-### Troubleshooting
-
-1. Node version should be atleat v14.15.0 due to Gatsby dependencies
-
-2. To install nvm in Windows, follow this guide as it worked for me [https://tecadmin.net/install-nodejs-with-nvm-on-windows/](https://tecadmin.net/install-nodejs-with-nvm-on-windows/) 
-
-3. Problems with lmdb library being corrupted -> delete node-gyp in C:\Users\{Username}\AppData\Local and redo step 1 of Installation and Set Up 
 
 ## 🎨 Color Reference
 
