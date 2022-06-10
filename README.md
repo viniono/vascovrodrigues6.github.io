@@ -1,26 +1,15 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website
 </h1>
-<p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p>
 
-<div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
-</div>
+### Special Thanks
 
-### TL;DR
-
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Thanks to Brittany Chiang for the Design and Build [brittanychiang.com](https://brittanychiang.com).
+Thanks to Chandrika Deb for making her version of Brittany Chiang's website available to be forked [https://chandrikadeb7.github.io/](https://chandrikadeb7.github.io/).
 
 ## 🛠 Installation & Set Up
+
+Same steps in the Installation & Set Up part of the README [https://github.com/chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) adapted to Windows
 
 1. Install the Gatsby CLI
 
@@ -31,13 +20,14 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
-   nvm install
+   nvm install 14.15.0
+   nvm use 14.15.0
    ```
 
 3. Install dependencies
 
    ```sh
-   yarn
+   npm install
    ```
 
 4. Start the development server
@@ -59,6 +49,14 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    ```sh
    npm run serve
    ```
+
+### Troubleshooting
+
+1. Node version should be atleat v14.15.0 due to Gatsby dependencies
+
+2. To install nvm in Windows, follow this guide as it worked for me [https://tecadmin.net/install-nodejs-with-nvm-on-windows/](https://tecadmin.net/install-nodejs-with-nvm-on-windows/) 
+
+3. Problems with lmdb library being corrupted -> delete node-gyp in C:\Users\{Username}\AppData\Local and redo step 1 of Installation and Set Up 
 
 ## 🎨 Color Reference
 
