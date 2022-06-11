@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Vasco Rodrigues\' Portfolio',
   siteDescription:
-    'Vasco Rodrigues is a Researcher at GECAD, who loves learning new things and helping tech beginners.',
+    'Vasco Rodrigues is a Researcher at GECAD, who loves learning new things and captivated by AI challenges',
   siteKeywords:
     'Vasco Rodrigues, Vasco, Rodrigues, vascovrodrigues6, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://vascovrodrigues6.github.io/',
