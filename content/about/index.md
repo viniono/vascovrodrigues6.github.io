@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'foto1.jpg'
+avatar: 'foto2.jpg'
 skills:
   - Python
   - Artificial Inteligence
