@@ -8,7 +8,7 @@ tech:
   - Drools
   - Drools Rule-Engine
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Rule Based Engine to validate batches of dairy products based on real company and industry standards
