@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/vascovrodrigues6.github.io",
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
@@ -17,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'VascoRodrigues',
-        short_name: 'VascoRodrigues',
+        name: 'viniono',
+        short_name: 'viniono',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
