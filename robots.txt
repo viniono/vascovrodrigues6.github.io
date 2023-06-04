@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://viniono.github.io/viniono.github.io/sitemap-index.xml
-Host: https://viniono.github.io
+Sitemap: https://vinono.github.io/viniono.github.io/sitemap-index.xml
+Host: https://vinono.github.io
