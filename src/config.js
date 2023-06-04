@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Vinicius Ono |Student ',
     siteDescription:
-      'Vinicius Ono is an aspring data scientist',
+      'Vinicius Ono is an aspiring data scientist',
     siteKeywords:
       'Vinicius Ono, data, ML, Econometrics',
-    siteUrl: 'https://viniono.github.io/',
+    siteUrl: 'https://vinono.github.io/',
   siteLanguage: 'en_US',
   name: 'Vinicius Ono',
   location: 'Grinnell, IA',
@@ -22,10 +22,12 @@ module.exports = {
   ],
 
   navLinks: [
+
     {
       name: 'About',
       url: '/#about',
     },
+
     {
       name: 'Experience',
       url: '/#jobs',
