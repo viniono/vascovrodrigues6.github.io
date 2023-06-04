@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: "/viniono.github.io",
+  pathPrefix: "/reponame",
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,

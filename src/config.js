@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Vinicius Ono |Student ',
-    siteDescription:
+  siteDescription:
       'Vinicius Ono is an aspiring data scientist',
     siteKeywords:
       'Vinicius Ono, data, ML, Econometrics',
