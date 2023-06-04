@@ -27,24 +27,24 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-42f4a6f0bbb869177e6a.js"
+    "url": "webpack-runtime-8fa0d5e042196c8dca5f.js"
   },
   {
     "url": "framework-d24e10efef936adb7822.js"
   },
   {
-    "url": "app-3215abf34856bd988b68.js"
+    "url": "app-7308ab5a34dd55531450.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "296e3667b16a1f75bae52daa23c3a6ab"
+    "revision": "4682ded11265ffa3cc400bfb2f7a91e1"
   },
   {
     "url": "polyfill-28d2574eeafec4561283.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "cbb5a8d36f2bb159f7583a99e04208d7"
+    "revision": "49ba80b60bb69e1abbd40636a7f26875"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -154,7 +154,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/vascovrodrigues6.github.io/app-3215abf34856bd988b68.js`))) {
+  if (!resources || !(await caches.match(`/vascovrodrigues6.github.io/app-7308ab5a34dd55531450.js`))) {
     return await fetch(event.request)
   }
 
