@@ -27,24 +27,24 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-1fce4c3403e852f1884a.js"
+    "url": "webpack-runtime-b7b79078d73c5f48d368.js"
   },
   {
     "url": "framework-d24e10efef936adb7822.js"
   },
   {
-    "url": "app-7308ab5a34dd55531450.js"
+    "url": "app-fbc6b7989d32d07c2953.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "710c97b9c37e3275b31d544c52420027"
+    "revision": "e28ead9be7fa358ec74031b6f201612f"
   },
   {
     "url": "polyfill-28d2574eeafec4561283.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "49ba80b60bb69e1abbd40636a7f26875"
+    "revision": "b2fa8288905e20394169c17040536383"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/vascovrodrigues6.github.io`), ``)
+  pathname = pathname.replace(new RegExp(`^/viniono.github.io`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/vascovrodrigues6.github.io/app-7308ab5a34dd55531450.js`))) {
+  if (!resources || !(await caches.match(`/viniono.github.io/app-fbc6b7989d32d07c2953.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/vascovrodrigues6.github.io/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/viniono.github.io/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
