@@ -1,10 +1,11 @@
 ---
 title: 'Hello World! My name is'
-name: 'Vasco Rodrigues'
-subtitle: 'Keen on exploring new things!'
+name: 'Vinícius Ono'
+subtitle: 'Data Science Enthusiast and Explorer!'
 buttonText: 'Contact Me'
 ---
-Ambitious AI Researcher based in Porto,Portugal with over 2 years of experience in applying AI in solving business problems through analysis, planning and experimentation. Recognized for academic excellence, I hold a Merit Award and was ranked 2nd overall in my MSc in Computer Software Engineering: Information and Knowledge Systems from [ISEP](https://www.isep.ipp.pt/). Currently looking to make the jump to a Data Science or Machine Learning Engineer position where i can continue honing my current skills and learn new ones to help drive business
-success.
 
-Currently working as an AI Researcher at [GECAD](https://www.gecad.isep.ipp.pt/GECAD/Pages/Presentation/Home.aspx).
+I'm a Brazilian native with a passion for Data Science, Machine Learning, and financial engineering. With an entrepreneurial spirit, I strive to uncover innovative possibilities at the intersection of these fields.
+
+Currently a rising senior at [Grinnell College](https://www.grinnell.edu) and working on the development and launch of the first community-based summer storage for college students platform: [SPACED](https://spaced.live)
+

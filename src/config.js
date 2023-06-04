@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: 'Vasco Rodrigues\' Portfolio',
-  siteDescription:
-    'Vasco Rodrigues is a Researcher at GECAD, who loves learning new things and captivated by AI challenges',
-  siteKeywords:
-    'Vasco Rodrigues, Vasco, Rodrigues, vascovrodrigues6, software developer, software engineer, ISEP, GECAD',
-  siteUrl: 'https://vascovrodrigues6.github.io/',
+  siteTitle: 'Vinicius Ono |Student ',
+    siteDescription:
+      'Vinicius Ono is an aspring data scientist',
+    siteKeywords:
+      'Vinicius Ono, data, ML, Econometrics',
+    siteUrl: 'https://viniono.github.io/',
   siteLanguage: 'en_US',
-  name: 'Vasco Rodrigues',
-  location: 'Porto, Portugal',
-  email: 'vascovrodrigues6@gmail.com',
-  github: 'https://github.com/vascovrodrigues6',
+  name: 'Vinicius Ono',
+  location: 'Grinnell, IA',
+  email: 'onosanta@grinnell.edu',
+  github: 'https://github.com/viniono',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/vascovrodrigues6',
+      url: 'https://github.com/viniono',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/vasco-rodrigues-579645130/',
+      url: 'https://www.linkedin.com/in/viniono/',
     },
   ],
 
@@ -43,10 +43,10 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#f42c2c',
-    navy: '#16181d',
-    darkNavy: '#16181d',
-  },
+      green: '#64ffda',
+      navy: '#0a192f',
+      darkNavy: '#020c1b',
+    },
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',

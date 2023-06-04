@@ -14,15 +14,15 @@ Recently while working on a WordPress project with [Ups Dock](https://github.com
 
 It looked something like this:
 
-![Draft fail](./draft-fail.png)
+![Draft fail](draft-fail.png)
 
 Sometimes the error message would be slightly more helpful: `Publishing failed. Error message: The response is not a valid JSON response.`
 
-![Publish error](./publish-error.png)
+![Publish error](publish-error.png)
 
 And if I popped open the console, I saw these errors:
 
-![Console errors](./console-errors.png)
+![Console errors](console-errors.png)
 
 ## Solution
 

@@ -8,7 +8,7 @@ tags:
   - Testing
 ---
 
-![Image Alt](./image.jpg)
+![Image Alt](image.jpg)
 
 ```jsx
 class FlavorForm extends React.Component { // highlight-line

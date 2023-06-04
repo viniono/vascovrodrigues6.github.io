@@ -3,4 +3,4 @@ title: 'Get In Touch'
 buttonText: 'Mail Me'
 ---
 
-My inbox is always open. Whether you have a question about the projects I have done, my experience or just want to say hello, I'll try my best to get back to you!
+My inbox is always open! Whether you have a question, want to say hello, or even have a job opportunity for me, feel free to reach out. I'm here to listen and eager to connect with you. Don't hesitate to drop me a message!
