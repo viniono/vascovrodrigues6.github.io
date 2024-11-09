@@ -9,12 +9,11 @@ skills:
   - SQL
   - STATA
   - R-Studio
+  - Kdb+
 ---
 
- Hello! I'm currently pursuing my Bachelors in Computer Science and Economics with a concentration in Statistics at [Grinnell College](https://www.grinnell.edu) (2020-2024).
+Hello! I graduated in May 2024 with a Bachelor's in Computer Science and Economics with a concentration in Statistics from Grinnell College.
 
-I'm currently interning as a trader for **Bank of America Merrill Lynch** in the Market structure & e-trading desk. 
-
-The past semester I spent most of my time working on a cool project called [SPACED](https://spaced.live), which aims to connect college students with local homeowners in grinnell to provided affordable summer sortage for college students.
+I'm currently working as a Quant Strat for a credit systematic trading pod at BofA focusing on investment-grade (IG) and high-yield (HY) credit, based in New York City.
 
 Here is a list of the technologies that I'm familiar with!
