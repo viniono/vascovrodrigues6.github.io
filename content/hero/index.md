@@ -5,7 +5,9 @@ subtitle: 'Data Science Enthusiast and Explorer!'
 buttonText: 'Contact Me'
 ---
 
-I'm a Brazilian student with a passion for Data Science, Machine Learning, and financial engineering. With an entrepreneurial spirit, I strive to uncover innovative possibilities at the intersection of these fields.
+I'm a data science and financial engineering enthusiast with a strong background in Machine Learning. I approach my work with an entrepreneurial mindset, seeking innovative solutions at the intersection of these fields.
 
-Currently a rising senior at [Grinnell College](https://www.grinnell.edu) and working on the development and launch of the first community-based summer storage for college students platform: [SPACED](https://spaced.live)
+I graduated from Grinnell College in May 2024 with a Bachelor’s degree in Computer Science and Economics, concentrating in Statistics. I am now working as a Quant Strat for a credit systematic trading pod at Bank of America, focusing on investment-grade (IG) and high-yield (HY) credit, and based in New York City.
+
+
 
